@@ -35,5 +35,10 @@
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
+  },
+  "peerDependencies": {
+    "peerDependencies": {
+      "ep_etherpad-lite": ">=1.8.6"
+    }
   }
 }
